@@ -1,9 +1,9 @@
-/* src/App.css */
+
 body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9;
+
 }
 
 #root {
@@ -31,7 +31,7 @@ body {
 .note-form button {
   padding: 0.5rem 1rem;
   font-size: 1rem;
-  background-color: #464545;
+  background-color: #525050;
   color: white;
   border: none;
   border-radius: 4px;
@@ -48,7 +48,7 @@ body {
 }
 
 nav {
-  background-color: #333;
+  background-color: #585858;
   color: white;
   padding: 1rem 0;
 }
